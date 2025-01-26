@@ -83,7 +83,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/opiran-club/softether/main/o
 ------------------------
  <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/script.png" width="40" alt="Image">اسکریپن من</strong></summary>
+    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/script.png" width="40" alt="Image">اسکریپت من</strong></summary>
 ------------------------------------
 
 - نصب یش نیاز ها
